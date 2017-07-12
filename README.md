@@ -8,4 +8,4 @@
 
 
 
-![gif](https://github.com/xiejiajin/SimpleLineView/blob/master/xiaoguo2.gif)  
+![gif](https://github.com/xiejiajin/SimpleLineView/blob/master/xiaoguo3.gif)  
